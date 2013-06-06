@@ -10,3 +10,8 @@ This extenstion is not fully completed version and have to be tested well. Pleas
 KNOWN ISSUES
 ----
 Select a tag, then do scroll to hide that line. You will lost selection. This has to be fixed.
+
+
+FloValence 
+-------
+Replace the background with a class
